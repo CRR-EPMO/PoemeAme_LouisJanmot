@@ -117,8 +117,7 @@ De l'Ange gardien la mission commence.
 Dieu lui donne, il emporte en ses bras, endormi
 
 Celui dont il sera le conseil et l'ami ;
-	
-> Dans l'espace il s'élance.
+Dans l'espace il s'élance.
 
 
 Plus rapide en son vol que l'ouragan fougueux
