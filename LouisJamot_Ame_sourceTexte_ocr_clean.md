@@ -1,7 +1,10 @@
 # I 
 ## GÉNÉRATION DIVINE
+
 A l'instant qu'a choisi la sagesse infinie,
+
 Le néant vaincu cède et fait place à la vie :
+
 De l'abime entr'ouvert, sombre et silencieux,
 Une âme humaine monte à la clarté des cieux ;
 Et le Dieu créateur, d'une ineffable ivresse,
@@ -30,8 +33,11 @@ S'il ne veut pas pleurer le ciel deux fois perdu.
 # II.
 ## LE PASSAGE DES AMES
 
+
 De l'Ange gardien la mission commence.
+
 Dieu lui donne, il emporte en ses bras, endormi
+
 Celui dont il sera le conseil et l'ami ;
 	Dans l'espace il s'élance.
 
