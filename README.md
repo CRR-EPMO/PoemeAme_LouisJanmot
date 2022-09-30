@@ -13,10 +13,15 @@ Le Poème de l’âme de Louis Janmot est l’œuvre d’une vie, étalée de 18
 Le fichier PDF a été télécharger sur [le site de NUMELYO de la bibliothèque municipale de Lyon](https://numelyo.bm-lyon.fr/f_view/BML:BML_00GOO0100137001103488040)
 
 Auteur(s) : Janmot, Louis, 1814-1892
+
 Titre : L'âme : poème
+
 Date de publication : 1881
+
 Lieu de publication : Saint-Etienne
+
 Pagination : 169 p., in-4
+
 Cote : 146675
 
 Le traitement, OCR et édition, est possible car NUMELYO diffuse ce contenu numérisé sous licence Ouverte.
