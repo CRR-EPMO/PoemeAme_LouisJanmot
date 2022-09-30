@@ -1,35 +1,57 @@
-# I 
-## GÉNÉRATION DIVINE
+#I 
+##GÉNÉRATION DIVINE
 
 A l'instant qu'a choisi la sagesse infinie,
 
 Le néant vaincu cède et fait place à la vie :
 
 De l'abime entr'ouvert, sombre et silencieux,
+
 Une âme humaine monte à la clarté des cieux ;
+
 Et le Dieu créateur, d'une ineffable ivresse,
+
 À tressailli lui-même, et sur son cœur il presse
+
 Comme un père l'enfant que son souffle a formé,
+
 ET QUI S'EST SENTI VIVRE EN SE SENTANT AIMÉ.
+
 Salut, nouveau venu, qu'élève au rang de l'être
+
 Le triple don d'aimer, de vouloir, de connaître !
+
 Que votre voix se joigne aux célestes concerts ;
+
 Elle manquait pour Dieu dans l'immense univers !
+
 Contemplez, abrité sous l'ombre de ses ailes,
+
 Du Bien, du Beau, du Vrai les sources éternelles ;
+
 Car l'Idéal, pour vous un moment dévoilé,
+
 Bientôt va s'obscurcir ; il faut, pauvre exilé,
+
 --- 
 Il faut, quittant le ciel, que votre ange vous mène
+
 Par ce chemin où doit passer toute âme humaine ;
+
 Libre de mériter, à l'heure du retour,
+
 Un arrêt sans appel de colère ou d'amour.
+
 Quels destins vous fera l'épreuve de la terre ?
+
 Nul n'en sait rien, sinon que l'épreuve est austère,
+
 Que le bonheur pour l'homme est un fruit défendu,
+
 S'il ne veut pas pleurer le ciel deux fois perdu.
 
 ----
+
 # II.
 ## LE PASSAGE DES AMES
 
