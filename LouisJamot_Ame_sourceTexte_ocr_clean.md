@@ -1,7 +1,5 @@
- 
-
-## I 
-### GÉNÉRATION DIVINE
+# I 
+## GÉNÉRATION DIVINE
 
 A l'instant qu'a choisi la sagesse infinie,
 Le néant vaincu cède et fait place à la vie :
@@ -19,7 +17,7 @@ Contemplez, abrité sous l'ombre de ses ailes,
 Du Bien, du Beau, du Vrai les sources éternelles ;
 Car l'Idéal, pour vous un moment dévoilé,
 Bientôt va s'obscurcir ; il faut, pauvre exilé,
---- 
+--- 
 Il faut, quittant le ciel, que votre ange vous mène
 Par ce chemin où doit passer toute âme humaine ;
 Libre de mériter, à l'heure du retour,
@@ -30,9 +28,8 @@ Que le bonheur pour l'homme est un fruit défendu,
 S'il ne veut pas pleurer le ciel deux fois perdu.
 
 ----
-## II.
-
-###LE PASSAGE DES AMES
+# II.
+## LE PASSAGE DES AMES
 
 De l'Ange gardien la mission commence.
 Dieu lui donne, il emporte en ses bras, endormi
@@ -53,7 +50,7 @@ On dirait, à les voir, de rapides coursiers
 Tout prêts à s'égarer dans les champs sans limite,
 S'ils n'étaient, d'un bras fort, retenus dans l'orbite
 	Des célestes sentiers.
-----
+----
 
 Astres qui gravitez, malgré l'ombre et le vide,
 Vous devez moins que nous vous tromper de chemin,
@@ -110,9 +107,10 @@ S'emplit d’un bruit croissant de plaintives clameurs.
 C'est le globe maudit, c'est le séjour des pleurs.
 	L'ange a touché la terre.
 
-----III.
+----
+# III.
 
-L'ANGE ET LA MÈRE
+## L'ANGE ET LA MÈRE
 
 QUE la paix du Seigneur repose
 Sur cette mère et son trésor,
@@ -135,7 +133,7 @@ Ce lac aujourd'hui tout azur.
 Loin des sentiers de la patrie,
 L'homme, voyageur égaré,
 
-----
+----
 
 Cherche en vain la source infinie
 Dont il fut ailleurs énivré.
@@ -167,7 +165,7 @@ Mais votre juste main a pesé la mesure
 Des douleurs qu'ici-bas tout homme doit porter;
 Pour accomplir la loi de sa noble nature,
 	Il faut souffrir pour mériter.
-----
+----
 
 Des ombres du présent tout l'avenir s'éclaire,
 
@@ -181,9 +179,10 @@ Et, qu'aimant et soumis, il vous rende son cœur,
 Trop longtemps égaré, sur cette triste terre,
 
 A la poursuite du bonheur.
-IV.
 
-LE PRINTEMPS
+# IV.
+
+## LE PRINTEMPS
 
 E soleil, maître de la vie,
 
