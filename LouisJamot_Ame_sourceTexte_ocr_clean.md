@@ -113,14 +113,21 @@ S'il ne veut pas pleurer le ciel deux fois perdu.
 
 
 De l'Ange gardien la mission commence.
+
 Dieu lui donne, il emporte en ses bras, endormi
+
 Celui dont il sera le conseil et l'ami ;
+	
 	Dans l'espace il s'élance.
 
+
 Plus rapide en son vol que l'ouragan fougueux
+
 Qui soulève les mers et tourmente les nues,
+
 Il plane hardiment, les ailes étendues,
 	Sur l'océan des cieux.
+
 
 Il voit croître et s'enfuir par centaines de milles,
 Planètes et soleils aux disques enflammés,
