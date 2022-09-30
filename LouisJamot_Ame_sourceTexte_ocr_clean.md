@@ -1,6 +1,5 @@
 # I 
 ## GÉNÉRATION DIVINE
-
 A l'instant qu'a choisi la sagesse infinie,
 Le néant vaincu cède et fait place à la vie :
 De l'abime entr'ouvert, sombre et silencieux,
