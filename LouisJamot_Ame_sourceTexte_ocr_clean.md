@@ -112,7 +112,9 @@ Sans erreur, sans appel, il va dicter leur sort;
 Elles semblent déjà le pressentir d'avance
 A ce vol inégal comme leur espérance,
 	Au sortir de la mort.
-----
+
+----
+
 Ainsi sous le ciel gris, dès que l'hiver arrive,
 De nos champs désertés pour des climats meilleurs.
 Nous voyons émigrer des oiseaux voyageurs
@@ -239,7 +241,8 @@ Au printemps sa blanche couronne,
 A l'été sa riche splendeur,
 
 S'il ne reste plus dans votre âme
-+ 14 +—
+
+-----
 
 L'essor, le rayon et la flamme,
 La foi, la grâce et la fraîcheur.
@@ -279,7 +282,8 @@ Ecoutez cette douce voix :
 Les oiseaux plus brillants encor
 Semblent en secouant leurs ailes
 Semer l'azur, la pourpre et l'or.
-—— 15 —
+
+-----
 
 Suis-moi jusque sur la colline,
 
@@ -304,8 +308,8 @@ Plus tôt vous verrez la limite,
 
 Où finit le sentier fleuri.
 
- 
-SOUVENIR DU CIEL
+# V. 
+## SOUVENIR DU CIEL
 
 ORSQU'ARRIVE le soir, l'enfant lassé repose
 Près du lit maternel sa tête blonde et rose ;
@@ -331,7 +335,8 @@ Passent en se jouant dans le limpide azur.
 Quel sourire divin sur leur bouche divine,
 
 Sous leurs cheveux flottants quand leur beau col s'incline,
-— 18 —
+
+----
 
 Sur le front d’un enfant qui, pour être embrassé,
 Leur sourit à son tour entre leurs bras bercé !
@@ -367,7 +372,8 @@ Qui, tels que des oiseaux, tantôt rasent la terre,
 Dans l'ombre disparus, tantôt à la lumière
 Emergeant tout à coup, reparaissent au loin,
 S'entr'ouvrant dans la nue un splendide chemin.
-—+ 10 +—
+
+-----
 
 Que ne peut-il, comme eux emporté dans l'espace,
 Atteindre dans son vol le nuage qui passe,
@@ -402,10 +408,10 @@ Des êtres lumineux la vision s'enfuit,
 
 Et l'enfant reste seul dans la profonde nuit.
 
-2)
-VI.
 
-LE TOIT PATERNEL
+# VI
+
+## LE TOIT PATERNEL
 
 M1, retirons-nous, l’orage me fait peur !
 
@@ -430,7 +436,8 @@ Rentrez dans le chaos !
 
 — Je n'ai vu, je n’entends que la foudre qui tombe
 À quelques pas de nous; cette effroyable trombe
-—+ 22 e—
+
+----
 
 Ne finira donc point. Daignez de tout malheur
 Préserver, Ô mon Dieu, le pauvre voyageur !
@@ -456,9 +463,7 @@ Et grand’mère, qui lit la Bible chaque soir,
 
 Nous fait, pour écouter, signe de nous asseoir. —
 
-LECTURE
-
-(Pssume XLHL)
+### LECTURE (Pssume XLHL)
 
 Qu'est-ce que l'homme, à Dieu, pour que votre pensée
 Du haut de l'infini descende jusqu'à lui,
@@ -471,7 +476,8 @@ Sur ces monts escarpés que l'homme n'atteint pas,
 Il suivra plein d’effroi, sur leur fumant cratère,
 
 La trace de vos pas.
-—+ 13 +—
+
+----
 
 Car, devant vous, Seigneur, sur leurs bases tremblantes,
 Sentant fléchir l'orgueil de leyrs sommets altiers,
@@ -507,8 +513,9 @@ De quelque arbre lointain la cime aux vents bercée,
 L'oiseau qui parcourait les champs libres des cieux,
 
 Et nous sentions bientôt des pleurs mouiller nos yeux !
-5
-—+ 24 +—
+
+----
+
 Dans le sol maternel profondément fixée,
 Heureuse mille fois la plante délaissée
 Que le savoir cruel du fer éducateur
@@ -543,7 +550,8 @@ A l'ombre des rameaux par le fer respectés,
 S'il sent du doute en lui peser la nuit obscure,
 
 De ceux qui l'ont quitté la mémoire si pure,
-—+ 25 «—
+
+----
 
 Le visage à la fois austère, calme et doux,
 Apparaissent vivants ; et tombant à genoux,
@@ -555,24 +563,23 @@ Il donne un libre cours aux pleurs, à la prière,
 Et retrouve, en ouvrant ces deux sources du cœur,
 Un peu de cette paix qui ressemble au bonheur.
 
-8
-VIL
+# VII.
 
-LE MAUVAIS. SENTIER
+## LE MAUVAIS SENTIER
 
-LES ENFANTS
+### LES ENFANTS
 
 UE nous veulent, mon Dieu, cette vieille en colère
 Et ces hommes vêtus de noir ?
 . J'ai peur, car il me semble voir
 Que de leurs yeux sur nous tombe un regard sévère.
 
-LA VIEILLE .
+### LA VIEILLE
 
 — Enfants, d’où venez-vous ? où courez-vous ainsi ?
 Et qui vous a permis de passer près d'ici ?
 
-LES ENFANTS
+### LES ENFANTS
 
 — Pitié pour la peine cruelle
 
@@ -580,9 +587,9 @@ De deux pauvres enfants qui, depuis ce matin,
 Loin de la maison paternelle,
 
 Ne peuvent, dans la nuit, retrouver leur chemin !
-— 28 «—
 
-LA VIEILLE
+
+### LA VIEILLE
 
 Ce n'est pas le côté par où ce chemin passe,
 
