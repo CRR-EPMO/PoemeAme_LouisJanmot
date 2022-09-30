@@ -1,21 +1,78 @@
 # Sommaire
-* I. [GÉNÉRATION DIVINE](#GÉNÉRATION-DIVINE)
-* II. [LE PASSAGE DES AMES](#LE-PASSAGE-DES-AMES)
-* III. [L'ANGE ET LA MÈRE](#L-ANGE-ET-LA-MÈRE)
-* IV. [LE PRINTEMPS](#LE-PRINTEMPS)
-* V. [SOUVENIR DU CIEL](#SOUVENIR-DU-CIEL)
-* VI. [LE TOIT PATERNEL](#LE-TOIT-PATERNEL)
-	* [LECTURE (Pssume XLHL)]([LECTURE-Pssume-XLHL])
-* VII. [LE MAUVAIS SENTIER](#LE-MAUVAIS-SENTIER)
-	* [LES ENFANTS](#LES-ENFANTS)
-	* [LA VIEILLE](#LA-VIEILLE)
-	* [LES ENFANTS](#LES-ENFANTS)
-	* [LA VIEILLE](#LA-VIEILLE)
+* [PREMIERE SÉRIE](#PREMIERE-SERIE)
+	* I. [GÉNÉRATION DIVINE](#GÉNÉRATION-DIVINE)
+	* II. [LE PASSAGE DES AMES](#LE-PASSAGE-DES-AMES)
+	* III. [L'ANGE ET LA MÈRE](#L-ANGE-ET-LA-MÈRE)
+	* IV. [LE PRINTEMPS](#LE-PRINTEMPS)
+	* V. [SOUVENIR DU CIEL](#SOUVENIR-DU-CIEL)
+	* VI. [LE TOIT PATERNEL](#LE-TOIT-PATERNEL)
+		* [LECTURE (Pssume XLHL)]([LECTURE-Pssume-XLHL])
+	* VII. [LE MAUVAIS SENTIER](#LE-MAUVAIS-SENTIER)
+		* [LES ENFANTS](#LES-ENFANTS)
+		* [LA VIEILLE](#LA-VIEILLE)
+		* [LES ENFANTS](#LES-ENFANTS)
+		* [LA VIEILLE](#LA-VIEILLE)
+		* [LES ENFANTS](#LES-ENFANTS)
+		* [LA VIEILLE](#LA-VIEILLE)
+		* [LES ENFANTS](#LES-ENFANTS)
+		* [LA VIEILLE](#LA-VIEILLE)
+	* VIII. [CAUCHEMAR](#CAUCHEMAR)
+	* IX. [LE GRAIN DE BLÉ](#LE-GRAIN-DE-BLE)
+		* [I.](#I)
+		* [II](#II)
+	* X. [PREMIÈRE COMMUNION](#PREMIERE-COMMUNION)
+		* [JESUS-CHRIST](#JESUS-CHRIST)
+		* [LES ENFANTS](#LES-ENFANTS)
+		* [JESUS-CHRIST](#JESUS-CHRIST)
+		* [LES ENFANTS](#LES-ENFANTS)
+		* [JESUS-CHRIST](#JESUS-CHRIST)
+		* [LES ENFANTS](#LES-ENFANTS)
+		* [JESUS-CHRIST](#JESUS-CHRIST)
+	* XI. [VIRGINITAS](#VIRGINITAS)
+		* [LE LIS](#LE-LIS)
+	* XII. [L'ÉCHELLE D'OR](#L-ÉCHELLE-D-OR)
+		* [POÉSIE](#POESIE)
+		* [PEINTURE](#PEINTURE)
+		* [MUSIQUE](#MUSIQUE)
+		* [ARCHITECTURE](#ARCHITECTURE)
+		* [ASTRONOMIE](#ASTRONOMIE)
+		* [PHILOSOPHIE](#PHILOSOPHIE)
+		* [THEOLOGIE](#THEOLOGIE)
+		* [SCIENCE](#SCIENCE)
+		* [SAINTETÉ](#SAINTETÉ)
+	* XIII. [RAYONS DE SOLEIL](#RAYONS-DE-SOLEIL)
+		* [1re VOIX](#1re-VOIX)
+		* [2° voix](#2-voix)
+		* [3° voix](#3-voix)
+		* [4° voix](#4-voix)
+	* XIV. [SUR LA MONTAGNE](#SUR-LA-MONTAGNE)
+	* XV. [UN SOIR](#UN-SOIR)
+	* XVI. [LE VOL DE L'AME](#LE-VOL-DE-L-AME)
+	* XVII. [L'IDÉAL](#L-IDEAL)
+	* XVIII. [RÉALITÉ](#REALITE)
+* [DEUXIÈME SÉRIE](#DEUXIEME-SERIE)
+	* I. [SOLITUDE](#SOLITUDE)
+	* II. [L'INFINI](#L-INFINI)
+	* III. [RÊVE DE FEU](#REVE-DE-FEU)
+	* IV. [IV](#AMOUR)
+	* V. [ADIEU](#ADIEU)
+	* VI. [LE DOUTE](#LE-DOUTE)
+		* [LA TERRE](#LA-TERRE) 
+	* VII. [L'ESPRIT DU MAL](#L-ESPRIT-DU-MAL)
+	* VIII. [L'ORGIE](#L-ORGIE)
+	* IX. [SANS DIEU](#SANS-DIEU)
+	* X. [LE FANTOME](#LE-FANTOME)
+	* XI. [CHUTE FATALE](#CHUTE-FATALE)
+	* XII. [SUPPLICE DE MEZENCE](#SUPPLICE-DE-MEZENCE)
+	* XIII. [LES GÉNÉRATIONS DU MAL](#LES-GENERATIONS-DU-MAL)
+	* XIV. [INTERCESSION MATERNELLE](#INTERCESSION-MATERNELLE)
+	* XV.[VISION DE L'AVENIR](#VISION-DE-L-AVENIR)
+	* XVI [SURSUM CORDA](#SURSUM-CORDA)
 
 -----
 
-# I 
-## GÉNÉRATION DIVINE
+# PREMIERE SERIE 
+## I. GÉNÉRATION DIVINE
 
 A l'instant qu'a choisi la sagesse infinie,
 
@@ -68,8 +125,7 @@ S'il ne veut pas pleurer le ciel deux fois perdu.
 
 ----
 
-# II.
-## LE PASSAGE DES AMES
+## II. LE PASSAGE DES AMES
 
 
 De l'Ange gardien la mission commence.
@@ -93,6 +149,7 @@ On dirait, à les voir, de rapides coursiers
 Tout prêts à s'égarer dans les champs sans limite,
 S'ils n'étaient, d'un bras fort, retenus dans l'orbite
 	Des célestes sentiers.
+	
 ----
 
 Astres qui gravitez, malgré l'ombre et le vide,
@@ -153,9 +210,8 @@ C'est le globe maudit, c'est le séjour des pleurs.
 	L'ange a touché la terre.
 
 ----
-# III.
 
-## L'ANGE ET LA MÈRE
+## III. L'ANGE ET LA MÈRE
 
 QUE la paix du Seigneur repose
 Sur cette mère et son trésor,
@@ -225,9 +281,8 @@ Trop longtemps égaré, sur cette triste terre,
 
 A la poursuite du bonheur.
 
-# IV.
 
-## LE PRINTEMPS
+## IV. LE PRINTEMPS
 
 E soleil, maître de la vie,
 
@@ -320,8 +375,7 @@ Plus tôt vous verrez la limite,
 
 Où finit le sentier fleuri.
 
-# V. 
-## SOUVENIR DU CIEL
+## V. SOUVENIR DU CIEL
 
 ORSQU'ARRIVE le soir, l'enfant lassé repose
 Près du lit maternel sa tête blonde et rose ;
@@ -421,12 +475,9 @@ Des êtres lumineux la vision s'enfuit,
 Et l'enfant reste seul dans la profonde nuit.
 
 
-# VI
+## VI. LE TOIT PATERNEL
 
-## LE TOIT PATERNEL
-
-M1, retirons-nous, l’orage me fait peur !
-
+AMI, retirons-nous, l’orage me fait peur !
 Nous avons bien à temps soustrait à sa fureur
 La primevère rose et le rosier si frêle ;
 Sous les coups redoublés du vent et de la grêle,
@@ -575,9 +626,7 @@ Il donne un libre cours aux pleurs, à la prière,
 Et retrouve, en ouvrant ces deux sources du cœur,
 Un peu de cette paix qui ressemble au bonheur.
 
-# VII.
-
-## LE MAUVAIS SENTIER
+## VII. LE MAUVAIS SENTIER
 
 ### LES ENFANTS
 
@@ -620,15 +669,15 @@ Félicitez-vous donc de votre heureuse chance,
 Car puisque tôt ou tard vous nous seriez rendus,
 Il n'était rien de mieux que de prendre l'avance.
 
-LES ENFANTS
+### LES ENFANTS
 
 Mais, nous vous l'avons dit, nous nous sommes perdus.
 
-LA VIEILLE
+### LA VIEILLE
 
 Alors, contez-moi donc toute votre aventure.
 
-LES ENFANTS
+### LES ENFANTS
 
 Nous cherchions les champs, la verdure,
 Ils étaient ce matin si beaux;
@@ -636,7 +685,9 @@ Ils étaient ce matin si beaux;
 Car l'orage avait de ses eaux
 
 Ravivé leur fraiche parure.
-—+ 29 +—
+
+------
+
 À peine aussi nos yeux ouverts
 Virent-ils l'aube souriante
 Qui chassait l'ombre décroissante
@@ -667,7 +718,8 @@ Chantez, matinale alouette,
 Chantez votre douce chanson ;
 Sur votre nid, dans le buisson,
 Dormez en paix, pauvre fauvette !
-—+ 30 «—
+
+----
 
 A moitié cachés dans les blés,
 
@@ -703,7 +755,8 @@ Et va se perdre au loin dans le profond des bois;
 
 Et nous ne pensions plus que, des monts descendue,
 L'ombre à grands pas marchait vers le déclin du jour;
-—+ 31 —
+
+-----
 
 Du sentier conducteur la trace était perdue,
 Quand nous songeâmes au retour.
@@ -725,7 +778,7 @@ De la demeure paternelle,
 
 Ne peuvent dans la nuit retrouver le chemin.
 
-LA VIEILLE
+### LA VIEILLE
 
 Enfants, c'est bien ,.entrez, ces murs sont ma demeure,
 Où je tiens à la fois caserne et garnison.
@@ -738,11 +791,10 @@ D'idéal et de foi qui séduit et qui leurre,
 
 Nul ne croit plus à rien qu'à sa propre raison.
 
-the
-VIII.
 
-CAUCHEMAR
+## VIII. CAUCHEMAR
 
+QUAND le vent du midi chassant les noirs autans
 Apporte avril en fleur sur son aile attiédie,
 Et qu'on voit s’agiter comme un souffle de vie,
 Ferment générateur où germe le printemps :
@@ -766,7 +818,9 @@ Le saule des vallons s’est vêtu le premier.
 Plus précoces encor, le pêcher, l'amandier
 
 Font pleuvoir sur les prés leurs fleurs blanches et roses.
-— 34 +—
+
+----
+
 Mais, trop vite oublié, l’austère vent du nord,
 Réveillant tout à coup son haleine endormie,
 Vient souffler sur ces fleurs, sur toute cette vie.
@@ -800,7 +854,8 @@ Jamais de l'idéal plus pur rayon n'arrive,
 Que reflété sur nous par l'azur de ses yeux;
 Une onde pure ainsi fait descendre les cieux
 Jusqu'à l’'humble gazon que vit croître sa rive.
-— 35 «—
+
+----
 
 Mais un souffle étranger, glacial et mortel,
 
@@ -844,7 +899,8 @@ Faut-il tant de soucis, tant de peines cruelles,
 
 Faut-il au premier jour qu'il essaya ses ailes,
 Qu'un fer brutal les coupe au pauvre oiseau ?
-— 36 «—
+
+----
 
 Maîtres du Bien, du Beau, saints, héros ou poëtes,
 Ne pouvons-nous vous rencontrer ailleurs !
@@ -867,12 +923,10 @@ Sur ce front pâle, impuissant, irrité,
 Ce que dix ans d'ennui semblent mettre à la place,
 Vaut-il jamais tout ce qu'ils ont coûté ?
 
-DE
-IX.
 
-LE GRAIN DE BLÉ
-
-oYEz ce grain de blé qui, malgré les orages
+## IX. LE GRAIN DE BLÉ
+### I.
+VOYEZ ce grain de blé qui, malgré les orages
 Ou l'hiver qui sévit,
 Faible et fort à la fois, a traversé les âges
 Vivant où l’homme vit.
@@ -894,7 +948,8 @@ Reptile aux mille bras,
 
 Le tenace gramen, l'ivraie envahissante
 Ne se reposent pas.
-—+ 38 —
+
+----
 
 Si tous ces ennemis constamment en révolte
 Ne tombent sous sa main,
@@ -907,6 +962,8 @@ En son espoir déçu,
 
 L'homme est coupable seul, car la terre lui donne
 Ce qu'elle en a reçu.
+
+### II.
 
 Ainsi le bien des biens, notre aliment suprême,
 L'auguste vérité,
@@ -928,7 +985,9 @@ La molle oisiveté.
 
 C'est le bluet frivole et la nielle légère,
 Le pavot fier et vain,
-—+ 39 +—
+
+----
+
 Épuisant, pour nourrir leur beauté passagère,
 La sève du bon grain.
 
@@ -956,12 +1015,14 @@ Le grain en est battu,
 Plus belle il portera dans les greniers célestes
 Sa moisson de vertu.
 
-© travail ! sainte loi qui conserve et féconde,
+### III 
+O travail ! sainte loi qui conserve et féconde,
 Le Seigneur te bénit !
 
 Par toi la créature au Créateur du monde
 Se soumet et s’unit.
-—+ 40 +—
+
+----
 
 Malheur à qui te nie, et devant toi recule !
 Le châtiment le suit,
@@ -998,7 +1059,8 @@ Qui ne rendent meilleurs ;
 
 Le bien trouve ici-bas une lutte certaine,
 Sa récompense ailleurs.
-—+ 41 —
+
+----
 
 Que nous sert d'acquérir une gloire impuissante ?
 Dans ce monde, fardeau
@@ -1017,18 +1079,19 @@ De l'effort qu’à son tour
 
 Chacun fait pour gagner l'éternelle couronne,
 Qu'il nous promet un jour.
-PREMIÈRE COMMUNION
 
-JÉSUS-CHRIST
+## X. PREMIÈRE COMMUNION
 
-URS comme un ciel serein que le matin colore,
+### JÉSUS-CHRIST
+
+PURS comme un ciel serein que le matin colore,
 
 Et rayonnants des feux de mon céleste amour,
 
 Venez, mes bien-aimés, marchez comme l'aurore
 Jusqu'à l'achèvement du jour.
 
-LES ENFANTS
+### LES ENFANTS
 
 O Seigneur, Ô Jésus, comment ne pas vous suivre !
 
@@ -1037,7 +1100,7 @@ Pour qui les a connus vos sentiers sont si doux;
 Celui qui près de vous un jour s'est senti vivre
 Peut-:il vivre un seul jour sans vous ?
 
-JÉSUS-CHRIST
+### JÉSUS-CHRIST
 
 Vous possédez la source où toute soif s'étanche.
 
@@ -1045,8 +1108,9 @@ Elle se donne à vous pour ne vous quitter plus,
 
 Tant que vous garderez cette tunique blanche,
 Chaste vêtement des élus.
-—+ 44 +—
-LES ENFANTS
+
+----
+### LES ENFANTS
 
 Le lis dont Salomon, dans sa magnificence,
 
@@ -1068,7 +1132,7 @@ Les troupeaux et les champs reconnaissent les soins ;
 Pour vous, Seigneur et Roi, qui vous donnez vous-même,
 Ingrats, pourrions-nous faire moins ?
 
-JÉSUS-CHRIST
+### JÉSUS-CHRIST
 
 Oui, la terre et les cieux, et toute créature
 
@@ -1082,7 +1146,8 @@ Si du moins tous pouvaient regarder dans mon cœur,
 Peut-être seraient-ils plus touchés de ma joie
 
 Qu'ils ne l’étaient de ma douleur.
-—+ 45 «—
+
+-----
 
 Enfants, consolez-moi, si mes faveurs divines
 Ne reçoivent souvent que l'opprobre et l'affront,
@@ -1090,7 +1155,7 @@ Vos innocentes mains écartent les épines
 
 Qui couronnent encor mon front.
 
-LES ENFANTS
+### LES ENFANTS
 
 Pitié pour les pécheurs ! si grande est la souffrance
 
@@ -1111,7 +1176,7 @@ Une mère fait plus : son amour force à croire
 
 A la grandeur de votre amour.
 
-JÉSUS-CHRIST
+### JÉSUS-CHRIST
 
 Enfants, la main de Dieu ne délaisse personne;
 
@@ -1119,7 +1184,9 @@ Sur sa bonté que tous se reposent en paix;
 
 Ma main hier fermée, aujourd'hui s'ouvre et donne,
 Plus libérale que jamais.
-—+ 46 +—
+
+----
+
 De vos cheveux pas un sans mon vouloir ne tombe,
 Chaque plume est comptée à l’humble passereau ;
 Tout être est mon enfant, et surtout si la tombe
@@ -1158,7 +1225,10 @@ Quelque être par le vice ou le doute abattu,
 Ah ! ne lui faites pas par un cruel reproche
 
 Sentir comme un poids la vertu.
-Vertu sans charité, c'est un oiseau sans aile,
+
+----
+
+Vertu sans charité, c'est un oiseau sans aile,
 Une semence au cœur impuissante à germer :
 Ayez la charité qui fait la vertu belle,
 
@@ -1171,14 +1241,12 @@ Afin qu'à vous, à tous, beaucoup soit pardonné,
 Aimez, aimez ! car plus vous donnez de vous même,
 Plus au ciel il vous est donné.
 
-(ae
-XI.
+----
 
-VIRGINITAS
+## XI. VIRGINITAS
+### LE LIS
 
-LE LIS
-
-NFANTS, joyeux de voir s ouvrir
+ENFANTS, joyeux de voir s ouvrir
 Mes fleurs si simples et si belles,
 Epanouissez-vous comme elles,
 Et gardez-vous de les flétrir !
@@ -1200,7 +1268,8 @@ De l'innocence protectrice,
 Nous avons tous trois la candeur :
 Et je la vois dans votre cœur
 Aussi blanche qu'en mon calice.
-— 50 e—
+
+----
 
 Pour vous, il garde avec amour,
 Comme une coupe virginale,
@@ -1235,7 +1304,8 @@ Quand son disque rouge est posé,
 Et semble un navire embrasé
 
 Qui dans l'Océan lointain sombre;
-— 51 —
+
+----
 
 Sa lueur qui m'éclaire encor
 Fait sur ma corolle d'opale,
@@ -1268,7 +1338,8 @@ Que Dieu lui-même s'est construits,
 Pour n'être souillés ni détruits
 
 Par la main du temps ou des hommes ;
-— 52 «—
+
+----
 
 Pour qu'il s'y conserve toujours
 Fut elle partout défaillante,
@@ -1304,7 +1375,9 @@ Et la foudre aura beau gronder,
 Du maître qui sait la guider
 
 En elle il ne voit que l'empreinte.
-— 53 +—
+
+----
+
 
 Car les cieux ne sont blasphémés
 Que par les méchants en révolte,
@@ -1316,13 +1389,13 @@ Ainsi pour lui commence à poindre
 L'heure, cachée aux cœurs mauvais,
 Où l'âme et la nature en paix
 Peuvent s'aimer sans devoir craindre.
-XII.
 
-L'ÉCHELLE D'OR
+ ----
 
-POÉSIE
+## XII. L'ÉCHELLE D'OR
+### POÉSIE
 
-"EST l'idéal, c'est Dieu que, réveuse et troublée,
+C'EST l'idéal, c'est Dieu que, réveuse et troublée,
 Je cherche sans repos, depuis ce jour lointain
 Où belle, heureuse alors, depuis triste exilée,
 L'âme humaine tomba de sa divine main.
@@ -1338,9 +1411,10 @@ Que me sert de vous suivre aux plus ardus sommets,
 Au fond des bois sacrés où la brise soupire,
 Si, vers le seul bien où j'aspire
 Vous ne me conduisez jamais !
-_— 55 e—
 
-PEINTURE
+---
+
+### PEINTURE
 
 Sur les monts escarpés, aux chênes séculaires,
 Dont la pourpre du soir découpe les rameaux,
@@ -1359,7 +1433,7 @@ Regards longs et rêveurs pleins d'une douce flamme,
 Vous en dites trop à mon âme,
 Ou bien vous en dites trop peu.
 
-MUSIQUE
+### MUSIQUE
 
 Brise des soirs d'été que la vague a bercée,
 Murmure harmonieux des ruisseaux et des bois,
@@ -1367,7 +1441,9 @@ Formez ce grand concert où l'humaine pensée
 Aime et sait emprunter ou donner une voix.
 Gémis, sombre Océan, mugis dans la tourmente,
 Quand tu sens arracher, de tes flancs entr'ouverts,
-+ 57 +—
+
+----
+
 Tes flots épouvantés que la trombe tournante,
 Reptile monstrueux, aspire dans les airs.
 Tigres, lions, oiseaux de proie,
@@ -1379,7 +1455,7 @@ Assez doux et profond, assez puissant pour rendre
 Ce chant que Dieu seul peut entendre,
 Et qui s'élève de mon cœur.
 
-ARCHITECTURE
+ ### ARCHITECTURE
 
 Assouplis aux accords des célestes cantiques,
 Le marbre et le granit sont descendus des monts,
@@ -1402,8 +1478,10 @@ Plus la voûte grandit, plus elle est solitaire.
 Temples, vous êtes de la terre,
 
 Et le Seigneur est dans les cieux !
-—+ 58 e—
-ASTRONOMIE
+
+----
+
+ ### ASTRONOMIE
 
 Le Seigneur est partout. Tout nous dit sa présence,
 
@@ -1432,7 +1510,7 @@ D'un souffle vous créa, d'un souffle vous efface,
 Comme le vent fait de la trace
 Qu'un passant laissa sous ses pas.
 
-PHILOSOPHIE
+### PHILOSOPHIE
 
 Lumière par son âme, ombre par la matière,
 Vers la terre ou le ciel incliné tour à tour,
@@ -1440,7 +1518,9 @@ L'homme marche à sa fin immortelle et dernière
 Dans l'espace et le temps attardé pour un jour.
 Infini dans ses vœux, mais borné dans sa course,
 Il poursuit un bonheur qui fuit à chaque pas :
-5 —
+
+----
+
 Cherchant alors plus haut et son but et sa source,
 Il comprend que tous deux ne sont point ici-bas.
 Douleur, est-ce là votre cause ?
@@ -1452,7 +1532,7 @@ Ou sa propre faiblesse est-elle le nuage
 Qui lui cache votre visage,
 Resplendissante vérité ?
 
-THÉOLOGIE
+### THÉOLOGIE
 
 Je veux la contempler loin des sphères mortelles
 Où d'un impur limon son éclat est terni,
@@ -1470,9 +1550,10 @@ Seigneur, votre sagesse a bien su mesurer
 Ce qu'il faut d'air vital à l'humaine poitrine,
 Ce qu'il faut de lueur divine
 Pour apprendre à vous adorer.
-—+ 60 «—
 
-SCIENCE
+----
+
+### SCIENCE
 
 Nature, tunes plus cette force fatale,
 Effroi de l'homme-enfant à te craindre asservi;
@@ -1491,7 +1572,7 @@ La vitesse du char a donc brisé vos rênes !
 Auriez-vous retrouvé des chaînes
 Où vous rèviez la liberté ?
 
-SAINTETÉ
+### SAINTETÉ
 
 Je n'ai rien à chercher, Seigneur, éar je vous aime,
 Vous, de tout ce qui vit l'immuable moteur,
@@ -1501,7 +1582,8 @@ Qui fait mouvoir les cieux et fait battre mon cœur.
 Idéal tant cherché, large et féconde vie,
 
 Lien doux et puissant, chaud rayon de la foi,
-_— G1 «—
+
+----
 
 Amour, divin amour ! oui, tu m'as asservie.
 Que me fait désormais tout le reste sans toi !
@@ -1517,13 +1599,13 @@ Pour que je fasse aimer ta beauté méconnue,
 Pour que la terre froide et nue
 
 S'embrase à ton souffle vainqueur !
-XII.
 
-RAYONS DE SOLEIL
+----
 
-1" VOIX
+## XIII. RAYONS DE SOLEIL
+### 1re VOIX
 
-ENEZ à la ronde joyeuse ;
+VENEZ à la ronde joyeuse ;
 
 Aimé de notre blanche sœur,
 Le ciel est pur, la vie heureuse ;
@@ -1535,15 +1617,14 @@ J'aime la joie, et je l'inspire,
 Je donne aux lèvres le sourire,
 Aux yeux leur humide clarté.
 
-2° voix
+### 2° voix
 
 Parfois au loin rien ne révèle
 Un lac transparent et profond,
 Quand l'oiseau passe et d'un coup d'aile
-
 Y trace un lumineux sillon.
-10
-—+ 64 «—
+
+---
 Ainsi, dans l'âme qui s'ignore,
 D'un regard je sais faire éclore
 Le rayon qui l'épanouit :
@@ -1551,7 +1632,7 @@ La sève ainsi rompt son écorce,
 Quand un rayon du ciel la force
 À devenir fleur, feuille et fruit.
 
-3° voix
+### 3° voix
 
 Venez, de la brise embaumée
 
@@ -1569,7 +1650,7 @@ Et bientôt délaisse la terre,
 Comme ces rayons de lumière
 Qui vont se perdre dans les cieux.
 
-4° Voix
+### 4° Voix
 
 Que le jour tombe, ou qu'il colore
 De ses feux le bel orient,
@@ -1580,7 +1661,8 @@ Je suis le matin souriant.
 
 Qu'à nos voix votre voie unie
 Chante ces heures de la vie
-—+ 65 «—
+
+---- 
 
 Que le remords ne suit jamais,
 
@@ -1610,15 +1692,13 @@ Plus tristes que la feuille morte,
 Puisque le temps qui vous emporte
 Ne pourra plus vous rajeunir,
 Que, de votre beauté céleste,
-
 En notre cœur du moins il reste
-
 Le cher et sacré souvenir.
-XIV.
 
-SUR LA MONTAGNE
+# XIV.
+## SUR LA MONTAGNE
 
-U-DELA du sentier qui montant de la plaine,
+AU-DELA du sentier qui montant de la plaine,
 Sur les coteaux se perd dans la trace incertaine
 Que laissent les troupeaux,
 Voulez-vous avec moi venir, Ô ma compagne,
@@ -1635,7 +1715,8 @@ Voisine des sommets.
 Passons, sans les cueillir, près de ces fleurs si belles ;
 Aux parfums pénétrants d'autres fleurs plus vermeilles
 Nous attendent plus loin,
-— 68 «—
+
+----
 
 Qui, pour s'épanouir, cherchent les pics sauvages,
 Une atmosphère vierge, un soleil sans nuages
@@ -1671,7 +1752,9 @@ S'abaissent à nos pieds.
 Atteignons le sommet de la montagne ardue,
 Où nos regards pourront sur l'immense étendue
 Planer en liberté ;
-—+ 69 +-
+
+----
+
 Quel bonheur d'aspirer l'air pur dans sa poitrine,
 De se sentir le point le plus haut qui domine
 L'espace illimité ;
@@ -1693,12 +1776,11 @@ Et je voudrais vous voir à sa clarté si douce,
 Heureuse et souriante, assise sur la mousse,
 Blanche comme un beau lis.
 
-1
-XV.
+----
 
-UN SOIR
+## XV. UN SOIR
 
-NFANTS, qu attendez-vous ? c'est l'heure accoutumée
+ENFANTS, qu attendez-vous ? c'est l'heure accoutumée
 Où, comme des oiseaux retirés dans leurs nids,
 Chaque soir, sous le toit de la famille aimée,
 Vous êtes réunis.
@@ -1722,8 +1804,9 @@ Sur vos yeux vaguement dans l’espace perdus ?
 Aviez-vous espéré de ce jour qui s’efface
 
 Quelque chose de plus ?
-11
-—+ 72 «—
+
+----
+
 A de plus hauts sommets songeriez-vous encore !
 Quand le soleil voisin de sa couche de feu
 Jette un dernier regard sur vos fronts qu'il colore
@@ -1762,7 +1845,9 @@ On ne distingue plus que l'étoile du soir,
 
 Et la terre, au milieu du pâle crépuscule,
 Globe immobile et noir.
-+ 7 +—
+
+----
+
 Ainsi, quand des vitraux la splendide magie
 S'éteint avec le jour, paraît l’humble clarté
 De la lampe oscillant sous la voûte élargie
@@ -1771,13 +1856,13 @@ Du temple déserté.
 Enfants, qu’attendez-vous ? c'est l'heure accoutumée
 Où, comme des oiseaux retirés dans leurs nids,
 Chaque soir sous le toit de la famille aimée
-
 Vous êtes réunis.
-XVI.
 
-LE VOL DE L'AME
+----
 
-H bien ! suivez de vos pensées
+## XVI. LE VOL DE L'AME
+
+EH bien ! suivez de vos pensées
 Le vol au cours aventureux !
 Quand vos ailes seront lassées
 Ah ! puissiez-vous sous d'autres cieux,
@@ -1799,7 +1884,8 @@ Et vous ignorez la patrie
 
 Où vous emporte un vain désir.
 Vous partez, pauvres hirondelles,
-—+ 76 «—
+
+----
 
 Savez-vous si, joyeux comme elles,
 Vous pourrez un jour revenir ?
@@ -1836,11 +1922,12 @@ La réalité vous rencontre,
 
 Et d’un air dédaigneux vous montre
 La tombe en travers du chemin.
-XVII.
 
-L'IDÉAL
+----
 
-LLONS plus loin encor; de ce dernier nuage
+## XVII. L'IDÉAL
+
+ALLONS plus loin encor; de ce dernier nuage
 Au flanc livide, obscur,
 Traversons l'épaisseur, jusqu'au bord qui surnage
 Eclairé par l'azur.
@@ -1862,7 +1949,9 @@ Pauvres oiseaux, c'est vous
 
 Qui, désormais, laissés entre nous et la terre
 Devez être jaloux.
-—+ 78 —
+
+----
+
 Plus nous marchons, et plus sur sa face attristée
 Je vois dans le lointain
 S'agiter en tous sens notre ombre projetée
@@ -1897,7 +1986,9 @@ Quels pensers imprévus
 
 Font briller dans vos yeux ces éclairs, cette flamme
 Que je n'ai jamais vus ?
-—+ 79 —
+
+----
+
 Je tressaille de joie, et pourtant il me semble
 Sentir un vague effroi :
 Pour la première fois en vous parlant je tremble,
@@ -1932,7 +2023,8 @@ Des terrestres douleurs,
 
 Sait jeter des vertus la semence divine
 Qui mürit dans les pleurs.
-— Xo +
+
+----
 
 Car tout espoir est vain, et tout culte est profane,
 Qui ne l'ont pour appui,
@@ -1964,14 +2056,11 @@ Laissez-moi prendre essor
 Au ciel, où désormais loin de vous je dois vivre
 Pour quelques jours encor !
 
-É
- 
+----
 
-XVII.
+## XVIII. RÉALITÉ
 
-RÉALITÉ
-
-ous commencez de vivre, et déjà vous pleurez,
+VOUS commencez de vivre, et déjà vous pleurez,
 Inhabile à souffrir, enfant, vous ignorez
 Le prix de ces larmes premières ;
 Novice voyageur lassé dès le matin,
@@ -1988,7 +2077,9 @@ Le prisme des jeunes années ;
 Mais là n’est point la vie, et vivre c'est sentir
 Les regrets du passé, l'horreur de l'avenir,
 Le présent chaque jour plus rude;
-—+ 52 +—
+
+----
+
 De la réalité c'est voir avec effroi,
 
 Comme un âpre désert, grandir autour de soi
@@ -2008,7 +2099,7 @@ Ses projets, ses désirs renversés, balayés,
 Les replis de son cœur les plus secrets broyés
 Sous le marteau de la souffrance.
 
-© rêve inachevé d'innocence et d'amour !
+O rêve inachevé d'innocence et d'amour !
 
 Etoile aux doux rayons qui pâlit sans retour
 Aux premiers regards de l'aurore !
@@ -2021,7 +2112,8 @@ Sous la cendre qui fume encore ?
 Dès qu'il s'éteint pourtant, la douleur, gouffre amer,
 S'avance en murmurant comme une sombre mer
 Autour de l'âme désolée ;
-— 83 «—
+
+----
 
 Et qui ne sent alors la plus forte vertu
 Chanceler comme un roc par les vagues battu,
@@ -2053,7 +2145,9 @@ Et la paix sur vous redescendre.
 Priez, et vous saurez ce que vaut la douleur.
 N'allez pas ressembler à l'ingrat voyageur
 Qui, dans son aveugle délire,
-—+ 84 «—
+
+----
+
 Maudirait, en tombant dans un gouffre profond,
 
 Sur la pente arrêté, l’épine du buisson,
@@ -2066,13 +2160,12 @@ Où chaque élan du cœur, par la douleur heurté,
 Doit remonter plus pur à l'unique beauté
 Qui ne peut pas être flétrie !
 
- 
-DEUXIÈME SÉRIE
- 
+ ----
 
-SOLITUDE
+# DEUXIÈME SÉRIE
+## I. SOLITUDE
 
-E m assieds seul, à la place où naguère,
+JE m'assieds seul, à la place où naguère,
 Rempli d'espoir, confiant, presqu'heureux,
 Un soir d'été nous contemplions à deux
 L'astre du jour achevant sa carrière.
@@ -2090,8 +2183,8 @@ Sont dans la nuit discrètement voilées.
 Des nuages pourprés, derniers témoins du jour,
 
 La splendeur par degrés devient ombre à son tour.
-13
-ER
+
+----
 
 Ainsi lorsqu'ont cessé les chants et les prières,
 
@@ -2126,10 +2219,10 @@ Vers la tombe où repose un amer souvenir,
 De nos illusions la couronne tombée,
 À de nouveaux printemps ne doit plus refleurir !
 
-FR
-L'INFINI
+---
+### II. L'INFINI
 
-AIS une puissance divine
+MAIS une puissance divine
 M'attire et m'enivre à la fois ;
 Elle soulève ma poitrine
 Et fait trembler ma voix :
@@ -2151,7 +2244,8 @@ Prenant son vol loin de la terre,
 Qu'il aille sonder le mystère
 De ces globes lointains aux innombrables feux
 Qui reculent sans fin l'immensité des Cieux.
-+ 00 e—
+
+----
 
 Ignorent-ils donc nos tempêtes,
 
@@ -2192,7 +2286,9 @@ Sans souci d'autres cieux qu'il n’atteindrait jamais.
 
 Aigle, vous avez plus d'espace
 Que jamais vous n'en franchirez,
-— gt —
+
+----
+
 Océan, gardez-vous la trace
 De vos flots déchirés ?
 Mais pour réaliser leur rêve,
@@ -2200,12 +2296,11 @@ Souffrent et s'agitent sans trève,
 La pensée, aigle au vol à l'étroit ici-bas,
 Le cœur, vaste Océan qui ne se calme pas.
 
-F
-NL.
+----
 
-RÊVE DE FEU
+### III. RÊVE DE FEU
 
-EST le milieu du jour, le soleil sur ma tête
+C'EST le milieu du jour, le soleil sur ma tête
 Prodigue ses rayons de feu ;
 Pas un souffle dans l'air, le nuage s'arrête
 Immobile dans le ciel bleu.
@@ -2225,7 +2320,9 @@ Murmurait une source pure,
 A travers le lit de verdure
 
 Que des arbres touffus avaient su protéger.
-° 94 —
+
+----
+
 Je goûtais le repos, la fraicheur retrouvée :
 Habitants des chênes voisins,
 Les oiseaux voltigeaient autour de leur couvée,
@@ -2257,7 +2354,9 @@ En scintillant s'y précipite.
 
 C'est ainsi que l'on voit la branche se pencher
 Avant qu'à nos veux se révèle
-à 05 .—
+
+
+----
 
 Le voyageur ailé venu pour s'y cacher
 Ou pour y reposer son aile.
@@ -2294,8 +2393,9 @@ Sur les cous et les seins neigeux,
 La brise avec amour fait ondoyer en tresses
 
 L'or ou l'ébène des cheveux.
-14
-—+ QÙ +—
+
+----
+
 Sans voix, sans mouvement, sans geste,
 Je n'osais me montrer et ne voulais pas fuir
 Dans la crainte où j'étais de faire évanouir
@@ -2325,10 +2425,10 @@ Sur son épaule nue et son col incliné,
 Les atteint... tout-à-coup le rêve est terminé :
 La réalité recommence.
 
- 
-LV:
+----
 
-AMOUR
+
+## IV. AMOUR
 
 OS; c'est toi que j'avais rêvée,
 Qu'avant de connaître j'aimais,
@@ -2351,7 +2451,8 @@ Quel chant possède la douceur
 D'un seul mot sorti de ta bouche!
 Tout ce qui t'approche ou te touche,
 Devient heureux, bon ou meilleur.
-—+ O8 —
+
+----
 
 Autour de toi brille et rayonne
 Comme un reflet de ta beauté.
@@ -2382,12 +2483,13 @@ Tes longs cils noirs voilent à peine
 Le feu qui brille dans tes yeux.
 
 Pareils à ce ciel qu'un nuage
-
 En un instant pourrait couvrir,
-
 On sent qu'ils pourraient s'assombrir
 Et comme lui couver l'orage.
-Mais, loin d'exprimer le courroux,
+
+-----
+
+Mais, loin d'exprimer le courroux,
 Ou de présager la tempête,
 
 Ton regard si profond, si doux,
@@ -2399,7 +2501,10 @@ Il m'enveloppe et me caresse ;
 
 Viens, que sur mon cœur je te presse :
 Je ne sais plus vivre qu'en toi.
-ADIEU
+
+----
+
+## V. ADIEU
 
 Pour ce bonheur si grand, mais qui dura si peu,
 Sans détour, sans pitié, votre bouche prononce
@@ -2426,9 +2531,9 @@ Me laissant aux chagrins qui doivent m’abreuver
 
 Peut-être, afin de mieux vous mériter encore,
 Voulez-vous m'éprouver.
- 
 
-—+ 102 +—
+----
+
 Chercherai-je au-delà de lointaines frontières,
 Des peuples, des déserts nouveaux à découvrir,
 Pour que, grâce au bienfait de nouvelles lumières,
@@ -2466,11 +2571,12 @@ Déjà mes veux en pleurs ne vous peuvent plus voir,
 Lorsque résonne encor cette note cruelle
 
 D'un adieu sans espoir.
-VE.
 
-LE DOUTE
+----
 
-ANS tous les faits que la science atteste,
+## VI. LE DOUTE
+
+DANS tous les faits que la science atteste,
 Dont elle nie ou cherche le pourquoi,
 Rien du bonheur ne nous donne la loi ;
 Lui seul absent, qu'importe tout le reste !
@@ -2492,8 +2598,8 @@ De tous ceux qu'en ton sein il a vu renfermer,
 Sans cesse tourmenté par la double torture,
 
 De perdre ceux qu'il aime ou de ne point aimer.
-15
-—+ 104 —
+
+----
 
 Sais-tu du moins, après les jours d'absence,
 
@@ -2532,14 +2638,15 @@ Où des vivants pas un ne restera.
 À tes enfants dois-tu survivre, Ô terre ?
 Endormis sur ton sein, vaste et morne cercueil,
 Qui du soleil éteint a revêtu le deuil,
-—+ 105 —
+
+----
 
 Vas-tu les emporter à travers la nuit sombre,
 Pour les bercer sans fin dans leur dernier sommeil,
 Ou s'éveilleront-ils en émergeant de l'ombre
 Pour revivre à nouveau sous un autre soleil ?
 
-LA TERRE
+### LA TERRE
 
 Pourquoi m'interroger ? Fatal, irresponsable,
 
@@ -2571,7 +2678,8 @@ Trouvent leur place trop petite ?
 
 Pourquoi le flot vaincu qui se tait et s'endort,
 Rien qu'à toucher ses bords se réveille et se brise,
-—+ 100 e—
+
+----
 
 Et pourquoi ton coursier se cabre, écume et mord
 Le frein d'acier qui le maitrise ?
@@ -2610,12 +2718,11 @@ Que tu traînes partout ; si tu veux en connaître
 La cause et le remède, il faut chercher ailleurs,
 Tu trouveras... peut-être.
 
-ere
-VIT.
+----
 
-L'ESPRIT DU MAL
+## VII. L'ESPRIT DU MAL
 
-‘EST moi qui répondrai, mieux que ce globe inerte,
+C'EST moi qui répondrai, mieux que ce globe inerte,
 Inférieur et sombr£ où le hasard t'a mis;
 Où tout semble à l'envi travailler à ta perte,
 Excepté moi, seul libre, et le grand insoumis ;
@@ -2634,9 +2741,8 @@ N'ont à subir des dieux ni clémence, ni haine,
 
 Et n'ayant pas de compte à rendre à chaque pas,
 Ils peuvent être bons puisqu'ils ne souffrent pas.
- 
 
-—+ 108 «—
+----
 
 Comme l'homme, ils n'ont pas l'Idéal sans mesure,
 D'un bonheur qui jamais ne peut être donné,
@@ -2675,7 +2781,9 @@ Etre après six mille ans responsable aujourd'hui !
 
 Si ta vie est ainsi, présent fatal et triste ;
 À qui n'en voudrait pas doit-il être donné,
-—+ 109 +—
+
+----
+
 Et n'en fut-il qu'un seul depuis que l'homme existe,
 Pour lequel il eût mieux valu n'être pas né,
 Qui donc est le coupable ? Est-ce toi ? Non! n’accepte
@@ -2710,7 +2818,8 @@ Que la plupart pour vivre y souffrent de la faim,
 Il faut bien pratiquer la lutte pour la vie ;
 
 C'est le premier devoir et la dernière fin.
-—s 110:0—
+
+----
 
 Autour de toi regarde, et lis dans la nature :
 
@@ -2731,10 +2840,12 @@ A volonté, se cote et se vend et s'achète.
 
 Rois et dicux sont tombés ; un seul résiste encor
 Plus puissant que jamais. Ce roi, ce dieu, c'est l'or!
-VIII.
-L'ORGIE
 
-Chœur.
+----
+
+## VIII. L'ORGIE
+
+### Chœur.
 
 UE le jour tombe ou qu'il renaisse,
 Dansons, chantons, le verre en main,
@@ -2742,7 +2853,7 @@ Dansons, chantons, le verre en main,
 Et sans songer au lendemain,
 Profitons de notre jeunesse.
 
-UN CONVIVE
+### UN CONVIVE
 
 Revenons aux temps oubliés
 
@@ -2756,10 +2867,8 @@ Par la société factice,
 Plutôt marâtre que nourrice,
 
 Qui le tient pieds et poings liés.
-16
-— 1123 e—
 
-Chœur.
+### Chœur.
 
 Reparaissez, jours d'allégresse,
 
@@ -2769,7 +2878,7 @@ En est-il de plus gracieux
 
 Que ceux de Rome et de la Grèce ?
 
-2% CONVIVE
+### 2me CONVIVE
 
 Ces dieux qui n'ont jamais été
 
@@ -2783,7 +2892,7 @@ Qu'elle tient toute dans mon verre,
 
 Et je le vide à leur santé.
 
-Clxrr.
+### Choeur.
 
 Qu'un meilleur destin vous protège.
 Jupiter, Bacchus et Vénus,
@@ -2792,19 +2901,20 @@ Soyez de nouveau bienvenus,
 
 Vous et votre charmant cortège.
 
-3me CONVIVE
+### 3me CONVIVE
 
 C'est grâce à vous qu'on vit fleurir
 Les beaux jours de la Renaissance,
 Et les germes qu'elle ensemence
-—+ 113 «—
+
+----
 
 Sont aujourd'hui prêts à murir ;
 Cueillons-les et célébrons l'ère
 Du progrès et de la lumière,
 Qui va, plus que jamais, fleurir.
 
-Chœur.
+### Chœur.
 
 Pour célébrer cette victoire,
 
@@ -2812,7 +2922,7 @@ Nous n'avons pas besoin des dieux,
 Car, pour être aussi puissants qu'eux,
 Il suffit de ne pas y croire.
 
-4" CONVIVE
+### 4" CONVIVE
 
 Tous les cultes sont abrogés,
 
@@ -2825,16 +2935,16 @@ Savoir, prospérité, richesse,
 Comme un fleuve coulent sans cesse
 En noyant tous les préjugés.
 
-Chœur.
+### Chœur.
 
 Des superstitions d'un autre âge
 Nous n'avons plus l’épouvantail ;
 La science est au gouvernail :
-
 Nous ne craignons plus le naufrage.
-—+ 114 +—
 
-5me CONVIVE
+----
+
+### 5me CONVIVE
 
 Qu'importent les rébus profonds
 Dont la métaphysique abonde !
@@ -2846,14 +2956,14 @@ Les nôtres sont bien plus de mise,
 Puisqu'il n'est de terre promise,
 Que celle dont nous jouissons.
 
-Chœur.
+### Chœur.
 
 Homère, aussi bien que le Dante,
 Quoique païen ne fut qu'un sot :
 Tous deux ne surent pas un mot
 De la morale indépendante.
 
-GE CONVIVE
+### 6me CONVIVE
 
 Quoi ! par le seul fait d'être nés,
 Affirment les grands moralistes,
@@ -2863,9 +2973,8 @@ Etouffons leur sotte homélie
 Sous les grelots de la folie,
 
 Et fermons-leur la porte au nez.
-—+ 115 «—
 
-Chœur.
+### Chœur.
 
 Arrière les pensers moroses,
 
@@ -2874,7 +2983,7 @@ Les soucis en place des roses
 
 Faites pour nos fronts de vingt ans.
 
-77° CONVIVE
+### 7me CONVIVE
 
 Pour une idée, une chimère,
 Qu'on en puisse venir aux coups,
@@ -2884,19 +2993,16 @@ Etrangers aux sottes querelles,
 Contentons-nous près de nos belles
 De combats plus sûrs et plus doux.
 
-Chœur.
+### Chœur.
 
 Que le jour tombe ou qu'il renaisse,
 Dansons, chantons, le verre en main,
 Et, sans songer au lendemain,
 Profitons de notre jeunesse.
 
-GUY
-IX.
+## IX. SANS DIEU
 
-SANS DIEU
-
-E monde est odieux ; de plus il est étrange.
+CE monde est odieux ; de plus il est étrange.
 Qu'y faisons-nous vraiment ? Pour la brute et pour l'ange
 L'être se comprendrait : les anges, purs esprits,
 N'ont pas de la matière à connaître le prix.
@@ -2914,7 +3020,8 @@ Pour nous, tout est obscur, changeant et périlleux :
 Le long d'un précipice, un bandeau sur les yeux,
 Un boulet à nos pieds, et scrutant des énigmes,
 Nous suivons les sentiers voisins des hautes cimes.
-—+ 118 —
+
+----
 
 Bientôt le voyageur, ou sage ou mécréant,
 Culbute, quel qu'il soit, dans le fossé béant
@@ -2954,7 +3061,8 @@ Distinguer d'autre loi que caprice ou hasard.
 Qu'on la nomme destin, divinité, qu'importe!
 
 Si, du néant sortis, le néant nous remporte ;
-NID
+
+----
 
 Si l'abime sans fond reste toujours voilé !
 
@@ -3000,10 +3108,8 @@ Il faut auparavant qu'ils vous daignent dicter
 Ce que vous leur direz. Puisqu'ils sont le grand nombre,
 
 Ils font pluie et beau temps : qui marche contre eux, sombre;
-17
- 
 
-—+ 120 +—
+----
 
 Qui mérite sans eux n'a que démérité.
 
@@ -3046,7 +3152,8 @@ Hors le délit prévu de ressusciter Dieu.
 Suivons donc ce courant où nous porte la foule.
 
 On y change à ce point que, dans le même moule,
-—+ 121 +—
+
+----
 
 Afin de contenter envieux et jaloux,
 
@@ -3097,7 +3204,8 @@ Le roc a résisté ; mais le torrent, plus fort,
 Finit par l’arracher de ses bases rongées,
 
 Et le jette en débris aux plaines ravagées.
-— 122 —
+
+----
 
 Renversé d'aussi haut, aussi bas descendu,
 
@@ -3146,7 +3254,8 @@ Il a tout ce qu'il faut pour être un jour brisé.
 
 Brisé, n'ayant plus rien qui l'entraîne ou le guide,
 Sans idéal, sans foi, sans amour, il est vide ;
-— 123 «—
+
+----
 
 Il ne sait plus vouloir ; incapable d'effort,
 
@@ -3187,12 +3296,11 @@ Me dit que quelqu'un vient. Je l'entends, il approche
 Comme un fauve, à pas lents, et je ne sais pourquoi,
 Ne me sentant plus seul, je tressaille d'effroi.
 
-RS
-LE FANTOME
+## X. LE FANTOME
 
-he : et devant moi marche sans raisonner.
+DEBOUT : et devant moi marche sans raisonner.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Vous êtes bien hardi de me parler en maître :
 Qui je ne connais pas et ne peut me connaître
@@ -3200,7 +3308,7 @@ Ici, pas plus qu'ailleurs, n’a d'ordre à me donner.
 Etre vivant, réel ou mensonger fantôme,
 Dites-moi votre nom, ôtez ce voile noir.
 
-LE FANTÔME
+### LE FANTÔME
 
 Non ! Je n’obéis pas aux paroles de l'homme.
 
@@ -3208,9 +3316,10 @@ C'est lui qui m'obéit, et nul n’a pu me voir
 
 Si beaucoup m'ont connu. De quel nom je me nomme,
 Tu le sauras bientôt en sachant mon pouvoir.
-—+ 126 «—
 
-LE VOYAGEUR
+----
+
+### LE VOYAGEUR
 
 Parle plus clairement, je suis las des énigmes.
 
@@ -3218,7 +3327,7 @@ A moins d'être un brigand, voleur de grand chemin,
 Qui craint d’être plus tard connu de ses victimes,
 On ne se cache pas ainsi d'un être humain !
 
-LE FANTÔME
+### LE FANTÔME
 
 Etre humain ! l'est-il bien, s’il perd son libre arbitre,
 Si, ne croyant à rien, à nulle vérité,
@@ -3227,13 +3336,13 @@ Il ne conserve plus ombre de liberté ?
 
 Etre humain ! es-tu sûr d'en mériter le titre ?
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Que vous importe en somme, et qu'il soit mal ou bien
 De vous déplaire ou non, vous, vous ne savez rien
 De ce qu'au fond je suis ; le sais-je bien moi-même !
 
-LE FANTÔME
+### LE FANTÔME
 
 Depuis longtemps déjà je te suis pas à pas,
 
@@ -3245,127 +3354,126 @@ Tu viens de te livrer, et depuis cet aveu
 
 Tu ne peux m'échapper ; c'est moi qui suis ton Dieu.
 
- 
-_— 127 ee
+----
 
-LE VOYAGEUR
+#### LE VOYAGEUR
 
 Mon Dieu ! Fantôme horrible, as-tu donc pris sa place ?
 
-LE FANTÔME
+#### LE FANTÔME
 Quoi ! vis-tu jamais Dieu pour savoir aujourd’hui
 
 Mieux qu'hier ce qu'il est ou n'est pas ? Comme lui
 Je suis voilé ; qui donc reconnait notre face ?
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Laisse-moi.
 
-LE FANTÔME
+### LE FANTÔME
 
 Non jamais ! puisque tu m'appartiens.
 Tu te trouves du reste en bonne compagnie,
 Avec de grands savants et tous les simiens,
 Des hommes d'aujourd'hui première colonie.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Tu voudrais me railler : c'est l'auguste manie
 
 Du plus fort, dont il faut mettre au-dessus de tout
 Les caprices.
-+ 128 +—
 
-LE FANTÔME
+----
+
+### LE FANTÔME
 Mais non ! l'antiquité si sage,
 Les grands hommes souvent, les plus grands dieux surtout
 
 N'ont pas cru s'abaisser en me rendant hommage.
 Fais comme eux, c'est encor le parti le meilleur.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 Va:t-en et laisse-moi, car tu me fais horreur !
 
-LE FANTÔME
+### LE FANTÔME
 
 C'est à tort, car jadis philosophe ou poëte
 Tinrent mêmes discours : tu les appris par cœur.
 Pourquoi donc t'indigner lorsque je les répète ?
 Suis-moi sans murmurer.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Dans cet affreux chemin!
 Non, je ne te suis pas, mais ta force m'entraîne.
 
-LE FANTÔME
+### LE FANTÔME
 
 C'est trop vite gémir, car tu la sens à peine.
 Le but à rencontrer se trouve un peu plus loin.
-=" 129 —
 
-LE VOYAGEUR
+---- 
+### LE VOYAGEUR
 
 Quel est-il ?
 
-LE FANTÔME
+### LE FANTÔME
 
 Tu verras : ta marche chancelante
 Quand tu seras plus près, par ton unique poids,
 Deviendra plus rapide ; alors, seul cette fois,
 D'un grand chemin tracé tu poursuivras la pente.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Mais tu me fais trembler. Dans ces flots mugissants
 J'aimerais mieux trouver la mort la plus prochaine,
 Qu'en tes hideuses mains. De plus en plus je sens
 D'un pouvoir inconnu la force surhumaine.
 
-LE FANTÔME
+### LE FANTÔME
 
 Que ton esprit revienne à des pensers plus doux ;
 Il semble avoir compris combien c'était folie
 De vouloir résister.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Cette fois je supplie :
 Devant toi je suis prêt à tomber à genoux !
-— 130 +—
 
-LE FANTÔME
+---- 
+
+### LE FANTÔME
 
 Devant moi! c'est en vain que le genoux se plie ;
 Car le cœur d'un avare et la pierre et l'acier
 Restent moins sourds que moi pour qui les veut prier.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Je n'irai pas plus loin, je le sens, je succombe.
 
-LE FANTÔME
+### LE FANTÔME
 
 Erreur, ne te crois pas aussi près de la tombe ;
 Tu dois aller plus loin, je te l'ai déjà dit.
 
-LE VOYAGEUR
+### LE VOYAGEUR
 
 Qui me délivrera de toi, spectre maudit ?
 
-db
-Er
-XI.
+----
 
-CHÜTE FATALE
+## XI. CHUTE FATALE
 
-LA FATALITÉ
+### LA FATALITÉ
 
-u demandais mon nom. Celui de Dieu proscrit,
+Tu demandais mon nom. Celui de Dieu proscrit,
 Le mien seul est resté : partout il est écrit.
 
-LA MATIÈRE
+### LA MATIÈRE
 
 Je suis la grande souveraine
 
@@ -3382,7 +3490,9 @@ Elle sait que je la délie,
 
 Ou du moins qu'elle les oublie
 Lorsque je l'endors sur mon sein.
-—+ 132 «—
+
+----
+
 Quelqu'il soit, füt-il presqu'un ange,
 Malheur à qui veut me dompter !
 Il vient un jour où je me venge,
@@ -3400,7 +3510,7 @@ Aux pouvoirs par elles séduits,
 Tous les temples des autres cultes
 Me sont livrés ou sont détruits.
 
-LA RÉVOLTE
+### LA RÉVOLTE
 
 J'ai pour augmenter tes fidèles
 Mille moyens de persuasion :
@@ -3418,7 +3528,8 @@ Les masses au cœur indompté :
 
 Ce mot, plus puissant que le glaive,
 Est celui de la liberté.
-— 133 «—
+
+----
 
 Elles ont demandé justice,
 
@@ -3445,10 +3556,9 @@ Avec des armes de rebut,
 Qui ne peuvent toucher le but,
 Et ne font plus peur à personne.
 
- 
-XIL.
+----
 
-SUPPLICE DE MEZENCE
+## XII. SUPPLICE DE MEZENCE
 
 Dans un instant d'angoisse un siècle peut tenir.
 Si je savais du moins, comment, quand doit finir
@@ -3468,8 +3578,7 @@ Sentir sa chair, ses os, dévorés par les chiens,
 Rien ne peut égaler ce supplice sauvage
 Qui m'étreint, haletant. Ah ! luttons avec rage,
 
-Q sait quel temps dura cette effroyable chute !
-+ 130 +—
+
 
 Et brisons ces liens par un suprême effort.
 En vain je me débats, le cadavre est plus fort.
@@ -3506,7 +3615,9 @@ Je me sens inondé d’une froide sueur.
 
 Dire qu'on lit encor, dérision cruelle,
 Sur ces traits envahis de livides pâleurs,
-—+ 137 «—
+
+----
+
 Sur ces yeux désormais sans sourires, ni pleurs,
 Que la morte aujourd'hui, jadis dût être belle !
 Mon supplice pourtant ne serait pas complet,
@@ -3537,7 +3648,8 @@ Ce n’est que l'accident pénible et passager,
 
 Et, vienne le réveil, je n'y dois plus songer.
 Quand ma jeunesse en fleur était en pleine sève,
-+ 135 —
+
+----
 
 Combien de fois, après le jour le plus heureux,
 
@@ -3571,15 +3683,13 @@ Non, non, cela n'est pas, cela ne peut pas être.
 Quel frisson de terreur fait trembler tout mon étre !
 Grand Dieu, je souffre trop pour n'ètre pas vivant.
 
-“f+
-XIII.
+----
 
-LES GÉNÉRATIONS DU MAL
+## XIII. LES GÉNÉRATIONS DU MAL
 
-UN SAVANT
+### UN SAVANT
 
-ur le surnaturel, tout un vaste programme
-
+Sur le surnaturel, tout un vaste programme
 Depuis dix-huit cents ans a voulu s'étayer,
 Mais l'examen des faits arrive à le nier.
 Le divin! l'absolu! Dieu! la substance! l'âme!
@@ -3592,11 +3702,12 @@ Hors ce monde tangible où la clarté s'est faite,
 
 Tout reste obscur, vague et caché.
 
-LE SPHYNX
+### LE SPHYNX
 
 Apercevant au fond d'une coupe de verre
 Le reste d'un breuvage au parfum tentateur,
-+ 140 e—
+
+----
 
 Une abeille y descend ; comme au sein d'une fleur,
 L'aspire goutte à goutte, et jusqu'à la dernière,
@@ -3609,9 +3720,9 @@ L'obstacle transparent laissait passer le jour,
 
 Mais toute issue était fermée.
 
-DANSE DES SEPT FILLES DU MAL
+### DANSE DES SEPT FILLES DU MAL
 
-Chœur.
+#### Chœur.
 
 Mortels, venez, chantez en chœur ;
 Mélés à la joyeuse ronde,
@@ -3629,7 +3740,9 @@ Qui fait de vous nos alliés,
 
 Lui seul vous reste et vous protège
 Quand les autres sont oubliés :
-— 141 +—
+
+----
+
 Nul obstacle ne nous arrête,
 Puisque nous tenons dans la main
 
@@ -3648,8 +3761,8 @@ Nous avaient dressé des autels ;
 Le présent nous rend des hommages
 Moins apparents, aussi réels.
 
-Soli.
-L'ENVIE
+### Soli.
+#### L'ENVIE
 
 Je tiens les hommes par l'envie :.
 C'est elle qui les fait mouvoir
@@ -3658,16 +3771,17 @@ Et convoiter toute leur vie
 
 Les biens qu'ils ne peuvent avoir.
 
-L'AVARICE
+#### L'AVARICE
 
 Sans rien envier à personne,
 J'offre un bonheur à peu de frais :
 L'avare qui jamais ne donne
 
 Jouit des dons qu'il n'a pas faits.
-=) 142 +—
 
-LA COLÈRE
+----
+
+### LA COLÈRE
 
 Lorsque la force s'exagère
 
@@ -3676,7 +3790,7 @@ Je donne au vaincu la colère,
 
 Qui les brise tous à la fois.
 
-LA GOURMANDISE
+### LA GOURMANDISE
 
 J'enseigne à comprendre la vie,
 Et grâce à moi le genre humain
@@ -3684,7 +3798,7 @@ Fait d'une table bien servie
 
 Le but unique, souverain.
 
-LA PARESSE
+### LA PARESSE
 
 À ceux que le travail enchaïine
 
@@ -3692,16 +3806,17 @@ Je ne veux donner qu'un conseil :
 À quoi servira tant de peine,
 Pour dormir du dernier sommeil !
 
-LA LUXURE
+### LA LUXURE
 
 Sur moi repose l'édifice
 
 Des lois qui règlent l'univers ;
 Mon nom, absent du frontispice,
 Est toujours écrit au revers.
-* 143 ——
 
-L'ORGUEIL OÙ LA SUPERBE
+----
+
+### L'ORGUEIL OU LA SUPERBE
 
 Mes sœurs, je marche à votre tête ;
 C'est moi qui fais les premiers pas,
@@ -3709,7 +3824,7 @@ Et sans ma première conquête,
 
 Les vôtres n'existeraient pas.
 
-Cleur.
+#### Coeur.
 
 Venez à la joyeuse ronde,
 
@@ -3723,7 +3838,7 @@ Par nous vous êtes préservés :
 S'il vous reste encor quelque joie
 C'est à nous que vous la devez.
 
-L'HOMME OÙ L'AME
+### L'HOMME OÙ L'AME
 
 Au-dessus du sépulcre où le sort m'abandonne
 J'entends un bruit confus de clameurs et de voix ;
@@ -3737,8 +3852,8 @@ En face du destin, impassible et cruel,
 Du sphynx accoutumé de railler sa victime ;
 Le savant qui ne croit qu'au monde matériel,
 
-20
-SALES
+----
+
 Et qui comptant parmi ses plus belles conquêtes
 
 De mettre au même rang les hommes et les bêtes,
@@ -3763,7 +3878,7 @@ Où l'être tout entier se dissout dans le rien,
 
 Fier de vivre sans Dieu, pour mourir comme un chien.
 
-PRIÈRE
+### PRIÈRE
 
 Je ne veux pas, mon Dieu, s'il en est temps encore,
 Vivre et mourir ainsi, toi que j'ai renié :
@@ -3782,11 +3897,12 @@ Renaître tout entier pour cette ère féconde
 
 Qu'on vit naître et grandir autour de ton drapeau
 Qui porte dans ses plis la fortune du monde !
-XIV.
 
-INTERCESSION MATERNELLE
+----
 
-ous qui voyez couler les larmes d'une mère,
+## XIV. INTERCESSION MATERNELLE
+
+VOUS qui voyez couler les larmes d'une mère,
 Exaucez-moi, Seigneur, vous pouvez les sécher :
 Mon fils fut autrefois enfant de la lumière ;
 Des ombres de la mort il le faut arracher.
@@ -3809,7 +3925,9 @@ Aux généreux desseins, à toute noble cause,
 Pour lesquels en plein jour il est urgent d'agir,
 Celui-là seul est prêt, conçoit, entreprend, ose,
 Qui de honteux liens ne se sent pas rougir.
-— 140 —
+
+----
+
 Mais, un jour, attardé par des amours mortelles,
 Oubliant qu'il était votre fils et le mien,
 
@@ -3848,7 +3966,9 @@ Oh ! ne détournez pas votre face adorée,
 Des âmes en détresse, 0 grand consolateur,
 Vous qui cherchiez jadis la brebis égarée,
 Vous qui nous avez dit : Je suis le bon pasteur.
-—+ 147 «—
+
+----
+
 Il est temps, ou bientôt la hideuse torture,
 Qui flétrit et qui broye et son âme et son corps,
 De ce qu'on peut souffrir passera la mesure,
@@ -3882,15 +4002,15 @@ J'espère en vous, déjà je vous vois adresser
 
 Au Sauveur, votre fils, ce regard angélique
 Qui contient la prière et la fait exaucer.
-XV.
 
-VISION DE L'AVENIR
+----
 
-LA SCIENCE
+## XV. VISION DE L'AVENIR
 
-E ce globe terrestre aux planètes lointaines,
+### LA SCIENCE
 
-Du pygmée au géant, de l'herbe au chêne altier,
+DE ce globe terrestre aux planètes lointaines,
+Du pigmée au géant, de l'herbe au chêne altier,
 Des ruisseaux à la mer, de la montagne aux plaines,
 Mes regards sont fixés sur l'univers entier.
 De tout être créé j'attends une lumière :
@@ -3907,7 +4027,8 @@ Entendez-les gronder dans leur cage ébranlée,
 On dirait des lions rendus de l'homme amis,
 Et sachant contenir leur force accumulée
 Pour servir qui les a soumis.
-—+ 150 —
+
+----
 
 Courant sans m'arrèter, de merveille en merveille,
 Plus je découvre et plus il reste à découvrir :
@@ -3928,7 +4049,7 @@ Sans lesquels rien ne fut, n'est, ni sera jamais,
 La science et la foi, renonçant au divorce,
 S'unissent enfin dans la paix.
 
-LA LOI
+### LA LOI
 
 Je vois les faits humains, les compare et les juge ;
 
@@ -3944,7 +4065,8 @@ Que la force brutale ou la mauvaise foi
 
 Dans l'ombre ont préparé, je poursuis ou protège :
 Je suis le droit, je suis la loi.
-—+ 151 —
+
+----
 
 C'est pourquoi tout le monde est censé me connaître,
 
@@ -3989,10 +4111,9 @@ Qui, sous un voile épais, cachaient la vérité ;
 S'il n'entend que ma voix pour lui servir de guide,
 Il peut marcher en liberté.
 
-21
-+ 152 «—
+----
 
-L'ANGE DE LA DÉLIVRANCE
+### L'ANGE DE LA DÉLIVRANCE
 
 Dieu le veut ! J'obéis. Il faut purger le monde,
 Depuis trois siècles entaché
@@ -4023,7 +4144,8 @@ Des beaux jours de l'antiquité ;
 
 La nuit du moyen-âge est enfin décroissante,
 Bientôt il n'aura plus été !
-_—+ 153 «—
+
+----
 
 Que tout ce qui s'est fait sous son ténébreux règne
 Tombe à cette heure de réveil ;
@@ -4060,7 +4182,8 @@ Est un travail de quelque prix,
 
 Il nous faudra livrer de plus rudes batailles
 Pour renouveler les esprits ;
-eu 154 êe
+
+----
 
 Afin que tout renaisse et que tout se transforme,
 La science, les mœurs, la loi,
@@ -4096,7 +4219,8 @@ Au passé du monde païen
 
 Serait comme un ferment de discorde et de peste
 Dans le sang du peuple chrétien ;
-—+ 155 +—
+
+----
 
 Mais ce peuple, alléché par la fausse promesse
 De retourner à l'age d'or,
@@ -4133,13 +4257,14 @@ Et dans l'océan de l'oubli,
 
 Loin des enfants du Christ, des fils de la lumière,
 Reste à jamais enseveli.
-XVI.
 
-SURSUM CORDA
+----
 
-VOIX LOINTAINES DES MONTAGNES ET DES FORÊTS
+## XVI. SURSUM CORDA
 
-Chœur.
+### VOIX LOINTAINES DES MONTAGNES ET DES FORÊTS
+
+#### Chœur.
 
 EVIENS auprès de nous, quitte l'âäpre rocher
 Qui, pendant trop longtemps, t'a servi de retraite ;
@@ -4158,7 +4283,8 @@ Avec lui l'atmosphère est moins froide et plus pure ;
 Le cadavre n'est plus à mes flancs âttaché,
 
 Il est rentré sous terre, où, de nouveau caché,
-— 158 e—
+
+----
 
 Comme il convient aux morts, il a repris le suaire
 Que gardait son tombeau dix-huit fois séculaire,
@@ -4166,8 +4292,9 @@ Dieu veuille que jamais il n'en puisse sortir !
 
 Mais d'où viennent ces chants que j'entends retentir ?
 
-LA FOI, L'ESPÉRANCE, LA CHARITÉ
-Chœur.
+### LA FOI, L'ESPÉRANCE, LA CHARITÉ
+
+#### Chœur.
 
 Ils viennent d'un côté que tu suivis naguère,
 
@@ -4187,19 +4314,17 @@ Plus ils le sont pour nous, plus ils nous trouvent belles,
 Mème en dépit des ans qui n'épargnent que nous.
 Saluons ton retour de nos chants les plus doux.
 
-L'AME OÙ L'HOMME
+##### L'AME OÙ L'HOMME
 
 O paroles de foi, d'amour et d'espérance,
-
 Oui je vous reconnais ; je sais d'où vous venez,
 Ce que vous promettez et ce que vous donnez.
-
 Je l'avais su naguère aux jours de mon enfance,
 De ma jeunesse heureuse... Ah quel âpre chemin
 Attend celui qui perd votre flambeau divin ;
-
 Il s'égare aux détours d'un ténébreux dédale, .
-—+ 159 —
+
+----
 
 Et meurtri sous les coups d'une lutte inégale,
 Il s'enfonce vivant dans l'ombre de la mort.
@@ -4232,13 +4357,12 @@ Sauvegardé par eux du danger de descendre,
 Je veux monter toujours pour mieux voir, mieux comprendre
 Ce que je voyais mal ou je ne voyais pas.
 
-LA FOI
+##### LA FOI
 
 Plongeant dans l'infini, cet océan immense
 Que la raison tremblante ose à peine sonder,
 
-22
-— 160 e—
+----
 
 Vers un point fixe et sûr la Foi sait la guider,
 
@@ -4249,7 +4373,7 @@ Qui doit orienter ta voile
 
 Pour naviguer en paix jusqu'au port : le tombeau.
 
-L'ESPÉRANCE
+#### L'ESPÉRANCE
 
 Pour l'aider, à ton bord l'Espérance s'engage,
 Et, ses regards rêveurs fixés dans le lointain,
@@ -4260,7 +4384,7 @@ Que sa voix n'est pas écoutée,
 Et que la barque démontée
 Dérive sous l'effort de la vague et du vent.
 
-LA CHARITÉ
+#### LA CHARITÉ
 
 Rien n'est désespéré, car la Charité brave
 Et des flots et des vents les plus grandes fureurs,
@@ -4270,12 +4394,13 @@ Les vents se calment à son gré
 Dès qu'elle a déployé ses ailes,
 Où, s'ils veulent rester rebelles,
 Ne la poussent que mieux vers le but désiré.
-—+ 161 «—
 
-LES QUATRE VERTUS CARDINALES
+----
+
+### LES QUATRE VERTUS CARDINALES
 LA PRUDENCE, LA TEMPÉRANCE, LA FORCE, LA JUSTICE
 
-Chœur.
+#### Chœur.
 
 Rien de solide et de durable
 N'existe sans notre concours :
@@ -4284,7 +4409,7 @@ Ce que nous bâtissons, des ans brave le cours.
 Rien de solide et de durable
 N'existe sans notre concours.
 
-LA PRUDENCE
+#### LA PRUDENCE
 
 Je sonde à chaque pas, pour avant tout connaître
 Le terrain sur lequel je suis ;
@@ -4298,11 +4423,12 @@ Pour me séduire ou m'ébranler,
 Sous mon œil vigilant, leurs vains échafaudages
 Ne tardent pas à s’écrouler.
 
-LA TEMPÉRANCE
+#### LA TEMPÉRANCE
 
 Je veille à ce trésor que chaque créature
 Reçut le droit de dépenser,
-—+ 102 —
+
+---- 
 
 Et partout où je suis j'enseigne la mesure
 Qu'on ne peut en vain dépasser.
@@ -4313,7 +4439,7 @@ Bientôt la plante dépérit,
 Les fleurs tombent du haut de sa couronne verte,
 De ses fruits pas un ne mürit.
 
-LA FORCE
+#### LA FORCE
 
 La volonté sans moi se connaît et subsiste,
 Mais sans moi ne saurait valoir ;
@@ -4327,7 +4453,7 @@ Délégué par le Créateur,
 Je ne suis qu'un effet, une seconde cause,
 L'esprit seul est premier moteur.
 
-LA JUSTICE
+#### LA JUSTICE
 
 La justice est la seule et sûre sauvegarde
 Qui fait respecter tous les droits ;
@@ -4340,8 +4466,8 @@ Car avec elles je peux tout :
 
 Mépriser le péril, dompter la résistance,
 Me faire obéir jusqu'au bout.
-— 163 «—-
-Chœur.
+
+#### Chœur.
 
 Rien de solide et de durable
 N'existe sans notre concours :
@@ -4350,7 +4476,7 @@ Ce que nous bâtissons des ans brave le cours.
 Rien de solide et de durable
 N'existe sans notre concours.
 
-L'AME OU L'HOMME
+#### L'AME OU L'HOMME
 
 Ces accents généreux, leur céleste harmonie
 Chassent le souvenir de ces chants d'ironie
@@ -4380,9 +4506,10 @@ Ils s'écartent pourtant déjà de toutes parts :
 
 La lumière agrandie, et les voix moins lointaines,
 Arrivent jusqu'à moi plus vives et plus pleines.
-—+ 164 —
 
-BÉATRIX
+----
+
+#### BÉATRIX
 
 Coupable repentant, et déjà pardonné,
 
@@ -4424,7 +4551,7 @@ Ne retourne jamais vers le monde païen :
 
 Marche vers l'avenir, marche en pleine lumière,
 Enfant du Christ, reste chrétien.
-—+ 165 «—
+
 
 Souviens-toi des leçons, des caresses données,
 
@@ -4440,32 +4567,29 @@ Qui versa dans ton cœur un douloureux effroi,
 Quand vint le dernier jour de ce pèlerinage
 Que je dus finir avant toi.
 
-L'AME
+#### L'AME
 
 Le mien ne pourrait-il finir aujourd'hui même :
 Le ciel s'ouvre à mes yeux, n'est-il pas où l'on aime ?.
 
-BÉATRIX
+#### BÉATRIX
 
 Le temps n'est pas venu de jouir à l'écart.
-
 La souffrance et la lutte écrasent cette terre ;
 C'est un devoir viril pour toi d'y prendre part ;
 Loin de planter ici ta tente solitaire.
 
 Quelque chose de plus que des vœux, des regrets,
 Devra remplir ta vie, inspirer tes pensées ;
-
 Pour le salut commun tous doivent être prêts,
 Tant les malheurs sont grands et les âmes blessées.
 
 Laisse-là les oisifs et les inconscients,
-
 Vaniteux au cœur froid, à la cervelle vide,
-
 Qui ne voulant rien voir des choses de leur temps,
 Préparent à loisir leur propre suicide.
-—+ 160 —
+
+----
 
 Ils regardaient en paix les nuages passer,
 Etendus mollement sur le bord de la grève,
@@ -4535,8 +4659,9 @@ Saisis avec vigueur toute arme légitime ;
 Apprendre à s'en servir vaut mieux que protester ;
 
 Il sera toujours temps de tomber en victime.
-23
-— 108 —
+
+---- 
+
 Ne maudis pas ton temps ; dans sa marche ici-bas,
 Bien loin d'être vieilli, le genre humain commence ;
 Reculant sur un point, il ne s'arrête pas,
@@ -4554,11 +4679,8 @@ Deviens digne d'aimer, de connaître et de suivre
 Du bien, du vrai, du beau, l’immortelle clarté,
 Pour laquelle ton âme est créée et doit vivre.
 
-FIX
+FIN
 
-Toulon, 10 septembre 1580.
+Toulon, 10 septembre 1880.
 
 L. JANMOT.
-
- 
-
