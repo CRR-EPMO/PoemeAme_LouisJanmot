@@ -1,5 +1,5 @@
-#I 
-##GÉNÉRATION DIVINE
+# I 
+## GÉNÉRATION DIVINE
 
 A l'instant qu'a choisi la sagesse infinie,
 
