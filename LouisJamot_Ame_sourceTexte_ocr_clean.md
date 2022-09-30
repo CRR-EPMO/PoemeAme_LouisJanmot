@@ -253,7 +253,8 @@ Cet amour n'est-il pas lui-même une prière,
 Mais votre juste main a pesé la mesure
 Des douleurs qu'ici-bas tout homme doit porter;
 Pour accomplir la loi de sa noble nature,
-	Il faut souffrir pour mériter.
+Il faut souffrir pour mériter.
+
 ----
 
 Des ombres du présent tout l'avenir s'éclaire,
@@ -272,7 +273,7 @@ A la poursuite du bonheur.
 
 ## IV. LE PRINTEMPS
 
-E soleil, maître de la vie,
+LE soleil, maître de la vie,
 
 Verse ses rayons les plus doux;
 Il dit à la terre engourdie :
@@ -365,7 +366,7 @@ Où finit le sentier fleuri.
 
 ## V. SOUVENIR DU CIEL
 
-ORSQU'ARRIVE le soir, l'enfant lassé repose
+LORSQU'ARRIVE le soir, l'enfant lassé repose
 Près du lit maternel sa tête blonde et rose ;
 Et les songes, amis du paisible berceau,
 D'un monde merveilleux écartent le rideau.
